@@ -1,3 +1,7 @@
 Hello chepra
 
+<<<<<<< HEAD
 How are you?
+=======
+How are you
+>>>>>>> 1cbe1e0e8b8ab55df29a3189fd25a6f9ef4553f5
