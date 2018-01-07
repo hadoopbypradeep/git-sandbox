@@ -4,3 +4,6 @@ HEllo Devops. Welcome to devops
 Commiting changes to the feature_branch
 
 Hello Devops!
+
+Commiting changes to the master branch
+Hello devops...!
